@@ -1,0 +1,14 @@
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\bin\Debug\erpweb.com.es.exe.config
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\bin\Debug\erpweb.com.es.exe
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\bin\Debug\erpweb.com.es.pdb
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\erpweb.com.es.csprojResolveAssemblyReference.cache
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\MainWindow.g.cs
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\App.g.cs
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\erpweb.com.es_MarkupCompile.cache
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\erpweb.com.es_MarkupCompile.lref
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\MainWindow.baml
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\erpweb.com.es.g.resources
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\erpweb.com.es.Properties.Resources.resources
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\erpweb.com.es.csproj.GenerateResource.Cache
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\erpweb.com.es.exe
+g:\md\documentos\visual studio 2015\Projects\erpweb.com.es\erpweb.com.es\obj\Debug\erpweb.com.es.pdb
