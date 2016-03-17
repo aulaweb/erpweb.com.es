@@ -18,9 +18,22 @@
                     <MenuItem Name="MnHost" Header="Host"/>
                 </MenuItem>
 
-                <MenuItem/>
-                <MenuItem/>
-                <MenuItem/>
+                <MenuItem Name ="MnCRM" Header="CRM">
+
+                </MenuItem>
+
+                <MenuItem Name ="MnProyectos" Header="Proyectos">
+                    
+                </MenuItem>
+
+                <MenuItem Name ="MnFacturacion" Header="Facturación">
+
+                </MenuItem>
+                <MenuItem Name ="MnProveedores" Header="Proveedores">
+
+                </MenuItem>
+                <MenuItem ></MenuItem>
+                <MenuItem></MenuItem>
             </Menu>
         </Border>
         <Border DockPanel.Dock="Top" Height="30" Background="Aquamarine" Name="DockHerramientas">
