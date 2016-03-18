@@ -23,10 +23,13 @@ namespace erpweb.com.es
         public MainWindow()
         {
             InitializeComponent();
+            VersionAplicacion.Text = "Versión 1.0 - 2016";
+            FechaSistema.Text = System.DateTime.Today.ToShortDateString();
         }
 
         private void MnSalir_Click(object sender, RoutedEventArgs e)
         {
+            
             var resultado = MessageBox.Show("¿Estás seguro que quieres salir?",
                 "salir del programa",MessageBoxButton.YesNo,MessageBoxImage.Warning);
             if (resultado==MessageBoxResult.Yes)

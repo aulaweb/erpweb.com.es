@@ -40,8 +40,32 @@
 
         </Border>
         <Border DockPanel.Dock="Bottom" Background="Black" Height="30" Name="DockEstado">
-
-            <TextBlock></TextBlock>
+            <StatusBar Name="BarraEstado" DockPanel.Dock="Bottom" >
+                <StatusBar.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="100" />
+                            </Grid.ColumnDefinitions>
+                        </Grid>
+                    </ItemsPanelTemplate>
+                </StatusBar.ItemsPanel>
+                <StatusBarItem  Grid.Column="0">
+                    <TextBlock Name="VersionAplicacion"></TextBlock>
+                </StatusBarItem>
+                <Separator Grid.Column="1" />
+                <StatusBarItem Grid.Column="2">
+                    <TextBlock Name="FechaSistema"></TextBlock>
+                </StatusBarItem>
+                <StatusBarItem Grid.Column="4">
+                    <ProgressBar Value="50" Width="90" Height="16" />
+                </StatusBarItem>
+            </StatusBar> 
+            
         </Border>
         <Border DockPanel.Dock="Left" Width="200" Background="Azure" Name="DockMenuVerticalIzq">
             <TextBlock></TextBlock>
@@ -50,7 +74,7 @@
             <TextBlock></TextBlock>
         </Border>
         <Border>
-            <TextBlock>ñdlskjfd</TextBlock>
+            <WrapPanel ></WrapPanel>
         </Border>
 
 
